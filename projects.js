@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
          {
             title: 'TO DO List',
-            description: 'A simple TO DO List built using HTML, CSS and JavaScript.',
+            description: 'A simple TO DO List application built using HTML, CSS and JavaScript.',
             image: 'todo.jpeg',
             link: 'https://bhavani0915.github.io/To-Do-List/'
         },
