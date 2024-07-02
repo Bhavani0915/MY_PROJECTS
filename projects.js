@@ -12,6 +12,12 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'skin.jpeg',
             link: 'https://bhavani0915.github.io/skin-disease-classification/'
         },
+         {
+            title: 'TO DO List',
+            description: 'A simple TO DO List built using HTML, CSS and JavaScript.',
+            image: 'todo.jpeg',
+            link: 'https://bhavani0915.github.io/To-Do-List/'
+        },
         {
             title: 'Photography Website',
             description: 'A personal photography website to showcase photography and skills.',
